@@ -34,4 +34,4 @@ hooks:
     - location: scripts/application_start.sh
       timeout: 60
       runas: root
-    - location: /scripts/register_with_elb.sh
+  
